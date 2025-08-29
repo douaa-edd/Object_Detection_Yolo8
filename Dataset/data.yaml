@@ -1,0 +1,12 @@
+path: ./Dataset
+
+train: /content/dataset/Dataset/train/images
+val: /content/dataset/Dataset/valid/images
+test: /content/dataset/Dataset/test/images
+
+
+nc: 3
+names:
+  0: laptop
+  1: pen
+  2: cellphone
